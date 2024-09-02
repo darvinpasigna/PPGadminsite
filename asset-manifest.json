@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PPGadminsite/static/css/main.921f2d20.css",
+    "main.js": "/PPGadminsite/static/js/main.1342dbed.js",
+    "static/js/453.1c13788b.chunk.js": "/PPGadminsite/static/js/453.1c13788b.chunk.js",
+    "static/media/positive.jpg": "/PPGadminsite/static/media/positive.1f6d000b4653843132aa.jpg",
+    "static/media/Logo.png": "/PPGadminsite/static/media/Logo.7243e1007d22d6eede17.png",
+    "index.html": "/PPGadminsite/index.html",
+    "main.921f2d20.css.map": "/PPGadminsite/static/css/main.921f2d20.css.map",
+    "main.1342dbed.js.map": "/PPGadminsite/static/js/main.1342dbed.js.map",
+    "453.1c13788b.chunk.js.map": "/PPGadminsite/static/js/453.1c13788b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921f2d20.css",
+    "static/js/main.1342dbed.js"
+  ]
+}
